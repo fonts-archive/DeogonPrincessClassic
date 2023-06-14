@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Deogon Princess Classic';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/DeogonPrincessClassic/DeogonPrincessClassic.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/DeogonPrincessClassic/DeogonPrincessClassic.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/DeogonPrincessClassic/DeogonPrincessClassic.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/DeogonPrincessClassic/DeogonPrincessClassic.ttf') format('truetype');
+}
